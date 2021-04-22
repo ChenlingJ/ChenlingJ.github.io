@@ -1,6 +1,6 @@
 # ChenlingJ.github.io
 
-Hello. How are you? 
+Hi
 
 - *Italic*
 - **Bold**
